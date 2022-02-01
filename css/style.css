@@ -1,0 +1,22 @@
+body {
+    font-family: montserrat;
+    font-family: sans-serif;
+    background: #3b5998;
+}
+
+.classContent{
+	align-content: center;
+	text-align: center;
+	align-items: center;
+}
+
+.classMessage{
+	display: none;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background: blue;
+	color: #FFFF;
+	text-align: center;
+	height: 10%;
+	width: 100%
+}
